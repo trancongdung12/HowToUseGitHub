@@ -18,5 +18,7 @@
     B6: git push origin master -> đẩy origin lên nhánh master
     Git store tên file để quay lại
     Git reset --hard <id của commit>
+    Push lên không được thêm -f phía sau
+    Git pull lấy toàn bộ code về
 
     '''
