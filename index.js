@@ -1,7 +1,3 @@
 function hello() {
-    return 'hello';
-}
-
-function hellow() {
-
+    return 'abc';
 }
